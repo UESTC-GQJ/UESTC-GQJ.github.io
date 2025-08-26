@@ -28,6 +28,7 @@ My research interest includes large language models, information extraction, and
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by ICIC 2025.
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by ICDE 2025.
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by COLING 2025.
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by COLING 2025.
 
 # 📝 Publications 
 
