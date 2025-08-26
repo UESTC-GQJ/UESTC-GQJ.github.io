@@ -1,4 +1,4 @@
----
+<img width="244" height="70" alt="image" src="https://github.com/user-attachments/assets/3d384017-8b0f-4900-9c14-19aa080940ba" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -29,17 +29,17 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by ICDE 2025.
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by COLING 2025.
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/IJCAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Bridging Generative and Discriminative Learning: Few-Shot Relation Extraction via Two-Stage Knowledge-Guided Pre-training](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6581.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Quanjiang Guo**, Jinchuan Zhang, Sijie Wang, Ling Tian, Zhao Kang*, Bin Yan, Weidong Xiao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&sortby=pubdate&citation_for_view=Jn7inOcAAAAJ:WF5omc3nYNoC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:WF5omc3nYNoC'></span></strong>
+- ..... 
 </div>
 </div>
 
