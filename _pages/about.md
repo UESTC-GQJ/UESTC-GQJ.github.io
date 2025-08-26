@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 **Quanjiang Guo**, Jinchuan Zhang, Sijie Wang, Ling Tian, Zhao Kang, Bin Yan, Weidong Xiao
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&sortby=pubdate&citation_for_view=Jn7inOcAAAAJ:WF5omc3nYNoC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:WF5omc3nYNoC'></span></strong>
-- ..... 
+- WAIT..... 
 </div>
 </div>
 
