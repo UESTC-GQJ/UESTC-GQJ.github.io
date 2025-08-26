@@ -34,7 +34,8 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/IJCAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bridging Generative and Discriminative Learning: Few-Shot Relation Extraction via Two-Stage Knowledge-Guided Pre-training](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6581.pdf)
+[Bridging Generative and Discriminative Learning: Few-Shot Relation Extraction via Two-Stage Knowledge-Guided Pre-training]
+(https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6581.pdf)
 
 **Quanjiang Guo**, Jinchuan Zhang, Sijie Wang, Ling Tian, Zhao Kang, Bin Yan, Weidong Xiao
 
