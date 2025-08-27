@@ -113,7 +113,7 @@ My research interest includes large language models, information extraction, and
 <style>
   /* 外层容器，保持 1:1 比例（正方形） */
   .visitor-map {
-    width: 100%;
+    width: 30%;
     max-width: 400px;   /* 最大宽度，可改 */
     aspect-ratio: 1 / 1;
     margin: 0 auto;     /* 居中 */
@@ -122,8 +122,8 @@ My research interest includes large language models, information extraction, and
 
   /* Clustrmaps 自动生成的 canvas 填充容器 */
   .visitor-map canvas {
-    width: 100% !important;
-    height: 100% !important;
+    width: 30% !important;
+    height: 30% !important;
     display: block;
   }
 </style>
