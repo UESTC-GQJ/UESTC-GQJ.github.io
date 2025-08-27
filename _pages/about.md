@@ -83,7 +83,7 @@ My research interest includes large language models, information extraction, and
 - *2025.06*, CETC–UESTC Third-Class Scholarship.
 - *2025.05*, Bronze Medal of China Collegiate Algorithm Design & Programming Chanllenge Contest.
 - *2024.10*, Second-Class Doctoral Scholarship.
-- *2025.09*, Gold Award, University Track – Sichuan Division, 2024 Ascend AI Innovation Competition.
+- *2024.09*, Gold Award, University Track – Sichuan Division, 2024 Ascend AI Innovation Competition.
 - *2024.08*, Silver Award of Sichuan International "Internet plus" Undergraduate Innovation and Entrepreneurship Competition. 
 - *2023.10*, Third-Class Doctoral Scholarship.
 - *2023.06*, 2023 Student Travel Grant Award of International Neural Network Society.
@@ -97,11 +97,11 @@ My research interest includes large language models, information extraction, and
 - *2016.09 - 2020.06*, Beijing University of Technology (BJUT), computer science and technology. 
 
 # 💬 Academic Services
-- *Conference Reviewer*, ACL, EMNLP, ACM MM, ICME, IJCNN. 
+- *Conference Reviewer*, ACL, EMNLP, ACM MM, ICME, ACM MM Asia, IJCNN. 
 - *Journal Reviewer*, TASLP.
 
 # 💻 Internships
 - *2019.06 - 2019.07*, Institute of Remote Sensing and Digital Earth，Chinese Academy of Sciences, Beijing, China.
 - *2022.08 - 2023.07*, 30th Research Institute of China Electronics Technology Group Corporation, Chengdu, China.
 
-<script type="text/javascript" src="//http://rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=Uly39wJ5YBJIvPkX8KvgLCOMK5Ge1rZxKmI7KCxwHkM"></script>
