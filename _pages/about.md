@@ -104,4 +104,26 @@ My research interest includes large language models, information extraction, and
 - *2019.06 - 2019.07*, Institute of Remote Sensing and Digital Earth，Chinese Academy of Sciences, Beijing, China.
 - *2022.08 - 2023.07*, 30th Research Institute of China Electronics Technology Group Corporation, Chengdu, China.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=fPNK-MMo9z8qUaehTJoQkQa5q9UUDerCQ5fkoaowWvc"></script>
+<div class="visitor-map">
+  <script type="text/javascript" id="clstr_globe"
+          src="//clustrmaps.com/globe.js?d=fPNK-MMo9z8qUaehTJoQkQa5q9UUDerCQ5fkoaowWvc">
+  </script>
+</div>
+
+<style>
+  /* 外层容器，保持 1:1 比例（正方形） */
+  .visitor-map {
+    width: 100%;
+    max-width: 400px;   /* 最大宽度，可改 */
+    aspect-ratio: 1 / 1;
+    margin: 0 auto;     /* 居中 */
+    position: relative;
+  }
+
+  /* Clustrmaps 自动生成的 canvas 填充容器 */
+  .visitor-map canvas {
+    width: 100% !important;
+    height: 100% !important;
+    display: block;
+  }
+</style>
