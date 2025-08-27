@@ -80,8 +80,13 @@ My research interest includes large language models, information extraction, and
 - [Entity Relation Interactive Graph Convolutional Network for Knowledge Embedding](https://ieeexplore.ieee.org/abstract/document/10202435/), Yang He, Bei Hui, **Quanjiang Guo**, Ling Tian, Dong Liu, **DSDE 2024**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017.09*, Outstanding Cadre Award at the School Level.
+- *2017.09*, Outstanding Cadre Award at the School Level.
+- *2017.09*, Outstanding Cadre Award at the School Level.
+- *2022.11*, First Prize of the "Feijiang Cup" Chongqing First Artificial Intelligence Innovation Competition.
+- *2022.09*, Gold Award of Sichuan International "Internet plus" Undergraduate Innovation and Entrepreneurship Competition. 
+- *2017.09*, Outstanding Cadre Award at the School Level. 
+- *2017.09*, National Inspirational Scholarship. 
 
 # 📖 Educations
 - *2021.09 - 2027.06 (now)*, University of Electronic Science and Technology of China (USETC), computer science and technology. 
