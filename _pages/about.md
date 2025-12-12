@@ -34,6 +34,16 @@ My research interest includes large language models, information extraction, and
 - ...
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/AAAI2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Extracting Events Like Code: A Multi-Agent Programming Framework for Zero-Shot Event Extraction](https://arxiv.org/pdf/2511.13118)
+
+**Quanjiang Guo**, Sijie Wang, Jinchuan Zhang, Ben Zhang, Zhao Kang, Ling Tian, Ke Yan✉️
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&citation_for_view=Jn7inOcAAAAJ:5nxA0vEk-isC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/IJCAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,7 +53,6 @@ My research interest includes large language models, information extraction, and
 **Quanjiang Guo**, Jinchuan Zhang, Sijie Wang, Ling Tian, Zhao Kang✉️, Bin Yan, Weidong Xiao
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&sortby=pubdate&citation_for_view=Jn7inOcAAAAJ:WF5omc3nYNoC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:WF5omc3nYNoC'></span></strong>
-- WAIT..... 
 </div>
 </div>
 
@@ -55,7 +64,6 @@ My research interest includes large language models, information extraction, and
 **Quanjiang Guo**, Yihong Dong, Ling Tian, Zhao Kang✉️, Yu Zhang, Sijie Wang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&sortby=pubdate&citation_for_view=Jn7inOcAAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:eQOLeE2rZwMC'></span></strong>
-- WAIT..... 
 </div>
 </div>
 
