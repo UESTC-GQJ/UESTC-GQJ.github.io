@@ -41,7 +41,7 @@ My research interest includes large language models, information extraction, and
 
 **Quanjiang Guo**, Sijie Wang, Jinchuan Zhang, Ben Zhang, Zhao Kang, Ling Tian, Ke Yan✉️
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&citation_for_view=Jn7inOcAAAAJ:5nxA0vEk-isC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:WF5omc3nYNoC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&citation_for_view=Jn7inOcAAAAJ:5nxA0vEk-isC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:5nxA0vEk-isC'></span></strong>
 </div>
 </div>
 
@@ -63,7 +63,7 @@ My research interest includes large language models, information extraction, and
 
 **Quanjiang Guo**, Yihong Dong, Ling Tian, Zhao Kang✉️, Yu Zhang, Sijie Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&sortby=pubdate&citation_for_view=Jn7inOcAAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:eQOLeE2rZwMC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&sortby=pubdate&citation_for_view=Jn7inOcAAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:hqOjcs7Dif8C'></span></strong>
 </div>
 </div>
 
