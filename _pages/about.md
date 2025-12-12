@@ -75,7 +75,6 @@ My research interest includes large language models, information extraction, and
 **Quanjiang Guo**, Zhao Kang✉️, Ling Tian, Zhouguo Chen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&sortby=pubdate&citation_for_view=Jn7inOcAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:9yKSN-GCB0IC'></span></strong>
-- WAIT..... 
 </div>
 </div>
 - [CodeBoost: Boosting Code LLMs by Squeezing Knowledge from Code Snippets with RL](https://arxiv.org/pdf/2508.05242?), Sijie Wang, **Quanjiang Guo**, Kai Zhao, Yawei Zhang, Xin Li, Xiang Li, Siqi Li, Rui She, Shangshu Yu, Wee Peng Tay, **underview**
