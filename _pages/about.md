@@ -23,6 +23,7 @@ My research interest includes large language models, information extraction, and
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026 (Oral).
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025. 
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025.
