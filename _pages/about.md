@@ -23,18 +23,24 @@ My research interest includes large language models, information extraction, and
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026.
-- *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026 (Oral).
-- *2025.10*: &nbsp;🎉🎉 One paper is accepted by BDMA.
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025. 
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025.
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted by ICIC 2025.
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted by ICDE 2025.
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by COLING 2025.
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024 Findings.
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2023.
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026 (<span style="color: red; animation: move 1s infinite;">CCF-A</span>).
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026 Oral (<span style="color: red; animation: move 1s infinite;">CCF-A</span>).
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by BDMA (<span style="color: red; animation: move 1s infinite;">JCR 1区</span>).
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025 (<span style="color: red; animation: move 1s infinite;">CCF-A</span>). 
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025 (<span style="color: red; animation: move 1s infinite;">CCF-A</span>).
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by ICIC 2025 (CCF-C).
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by ICDE 2025 (<span style="color: red; animation: move 1s infinite;">CCF-A</span>).
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by COLING 2025 (<span style="color: red; animation: move 1s infinite;">CCF-B</span>).
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024 Findings (<span style="color: red; animation: move 1s infinite;">CCF-B</span>).
+- *2023.04*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2023 (CCF-C).
 - ...
-
+<style>
+@keyframes move {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(10px); }
+  100% { transform: translateX(0); }
+}
+</style>
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/AAAI2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
