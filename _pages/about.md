@@ -36,61 +36,39 @@ My research interest includes large language models, information extraction, and
 - ...
 
 <style>
-@keyframes move {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(10px); }
-  100% { transform: translateX(0); }
-}
-
-@keyframes rainbow {
-  0% { color: #ff0000; }   /* 红色 */
-  16% { color: #ff7f00; }  /* 橙色 */
-  33% { color: #ffff00; }  /* 黄色 */
-  50% { color: #00ff00; }  /* 绿色 */
-  66% { color: #0000ff; }  /* 蓝色 */
-  83% { color: #4b0082; }  /* 靛蓝色 */
-  100% { color: #9400d3; } /* 紫色 */
-}
-
-@keyframes gradient {
-  0% {
-    background: linear-gradient(90deg, #ff0000, #ff7f00);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
+@keyframes rainbow-3d {
+  0% { 
+    color: #ff0000;
+    text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
+    transform: perspective(100px) rotateY(0deg);
   }
-  25% {
-    background: linear-gradient(90deg, #ffff00, #00ff00);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
+  25% { 
+    color: #00ff00;
+    text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+    transform: perspective(100px) rotateY(90deg);
   }
-  50% {
-    background: linear-gradient(90deg, #0000ff, #4b0082);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
+  50% { 
+    color: #0000ff;
+    text-shadow: 0 0 10px #0000ff, 0 0 20px #0000ff;
+    transform: perspective(100px) rotateY(180deg);
   }
-  75% {
-    background: linear-gradient(90deg, #9400d3, #ff0000);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
+  75% { 
+    color: #ffff00;
+    text-shadow: 0 0 10px #ffff00, 0 0 20px #ffff00;
+    transform: perspective(100px) rotateY(270deg);
   }
-  100% {
-    background: linear-gradient(90deg, #ff0000, #ff7f00);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
+  100% { 
+    color: #ff0000;
+    text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
+    transform: perspective(100px) rotateY(360deg);
   }
 }
 
 .rainbow-text {
   display: inline-block;
   font-weight: bold;
-  animation: 
-    move 1s infinite,
-    gradient 3s infinite alternate;
+  animation: rainbow-3d 4s infinite linear;
+  transform-style: preserve-3d;
 }
 </style>
 # 📝 Publications 
