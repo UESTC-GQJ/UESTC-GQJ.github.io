@@ -25,6 +25,7 @@ My research interest includes large language models, information extraction, and
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026 (Oral).
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by BDMA.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025. 
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025.
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by ICIC 2025.
@@ -78,6 +79,7 @@ My research interest includes large language models, information extraction, and
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&sortby=pubdate&citation_for_view=Jn7inOcAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:9yKSN-GCB0IC'></span></strong>
 </div>
 </div>
+- [Dual^2: Temporal Knowledge Graph Interpolation via Static-Dynamic and Semantic-Periodic Integration](https://www.sciopen.com/article/pdf/10.26599/BDMA.2025.9020107.pdf), Jinchuan Zhang, Chong Mu✉️, **Quanjiang Guo**, Lei Gao, Ke Yan, Ling Tian, **BDMA**
 - [CodeBoost: Boosting Code LLMs by Squeezing Knowledge from Code Snippets with RL](https://arxiv.org/pdf/2508.05242?), Sijie Wang, **Quanjiang Guo**, Kai Zhao, Yawei Zhang, Xin Li, Xiang Li, Siqi Li, Rui She, Shangshu Yu, Wee Peng Tay, **underview**
 - [UAVScenes: A Multi-Modal Dataset for UAVs](https://arxiv.org/pdf/2507.22412?), Sijie Wang, Siqi Li, Shenghai Yuan, Rui She, **Quanjiang Guo**, JinXuan Zheng, Ong Kang Howe, Leonrich Chandra, Shrivarshann Srijeyan, Aditya Sivadas, Toshan Aggarwal, Heyuan Liu, Hongming Zhang, Chujie Chen, Junyu Jiang, Lihua Xie, Wee Peng Tay, **ICCV 2025**
 - [ENGCL: Graph Contrastive Learning via Ego-Preservation and Neighborhood Learning](https://link.springer.com/chapter/10.1007/978-981-96-9849-3_6), Wenqiang Du, **Quanjiang Guo**, Ming Jia, Ke Yan, Zhao Kang, **ICIC 2025**
