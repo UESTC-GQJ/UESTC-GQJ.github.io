@@ -36,16 +36,17 @@ My research interest includes large language models, information extraction, and
 - ...
 
 <style>
-@keyframes blink {
+@keyframes color-change {
   0% { color: #ff0000; }
-  50% { color: #ffff00; }
-  100% { color: #ff0000; }
+  33% { color: #00ff00; }
+  66% { color: #0000ff; }
+  100% { color: #ff00ff; }
 }
 
 .rainbow-text {
   display: inline-block;
   font-weight: bold;
-  animation: blink 1s infinite;
+  animation: color-change 2s infinite alternate;
 }
 </style>
 # 📝 Publications 
