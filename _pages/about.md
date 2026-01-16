@@ -23,22 +23,74 @@ My research interest includes large language models, information extraction, and
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026 (<span style="color: red; animation: move 1s infinite;">CCF-A</span>).
-- *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026 Oral (<span style="color: red; animation: move 1s infinite;">CCF-A</span>).
-- *2025.10*: &nbsp;🎉🎉 One paper is accepted by BDMA (<span style="color: red; animation: move 1s infinite;">JCR 1区</span>).
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025 (<span style="color: red; animation: move 1s infinite;">CCF-A</span>). 
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025 (<span style="color: red; animation: move 1s infinite;">CCF-A</span>).
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026 (<span class="rainbow-text">CCF-A</span>).
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026 Oral (<span class="rainbow-text">CCF-A</span>).
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by BDMA (<span class="rainbow-text">JCR 1区</span>).
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025 (<span class="rainbow-text">CCF-A</span>). 
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025 (<span class="rainbow-text">CCF-A</span>).
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by ICIC 2025 (CCF-C).
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted by ICDE 2025 (<span style="color: red; animation: move 1s infinite;">CCF-A</span>).
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by COLING 2025 (<span style="color: red; animation: move 1s infinite;">CCF-B</span>).
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024 Findings (<span style="color: red; animation: move 1s infinite;">CCF-B</span>).
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by ICDE 2025 (<span class="rainbow-text">CCF-A</span>).
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by COLING 2025 (<span class="rainbow-text">CCF-B</span>).
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024 Findings (<span class="rainbow-text">CCF-B</span>).
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2023 (CCF-C).
 - ...
+
 <style>
 @keyframes move {
   0% { transform: translateX(0); }
   50% { transform: translateX(10px); }
   100% { transform: translateX(0); }
+}
+
+@keyframes rainbow {
+  0% { color: #ff0000; }   /* 红色 */
+  16% { color: #ff7f00; }  /* 橙色 */
+  33% { color: #ffff00; }  /* 黄色 */
+  50% { color: #00ff00; }  /* 绿色 */
+  66% { color: #0000ff; }  /* 蓝色 */
+  83% { color: #4b0082; }  /* 靛蓝色 */
+  100% { color: #9400d3; } /* 紫色 */
+}
+
+@keyframes gradient {
+  0% {
+    background: linear-gradient(90deg, #ff0000, #ff7f00);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  25% {
+    background: linear-gradient(90deg, #ffff00, #00ff00);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  50% {
+    background: linear-gradient(90deg, #0000ff, #4b0082);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  75% {
+    background: linear-gradient(90deg, #9400d3, #ff0000);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  100% {
+    background: linear-gradient(90deg, #ff0000, #ff7f00);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+}
+
+.rainbow-text {
+  display: inline-block;
+  font-weight: bold;
+  animation: 
+    move 1s infinite,
+    gradient 3s infinite alternate;
 }
 </style>
 # 📝 Publications 
