@@ -36,39 +36,16 @@ My research interest includes large language models, information extraction, and
 - ...
 
 <style>
-@keyframes rainbow-3d {
-  0% { 
-    color: #ff0000;
-    text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
-    transform: perspective(100px) rotateY(0deg);
-  }
-  25% { 
-    color: #00ff00;
-    text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
-    transform: perspective(100px) rotateY(90deg);
-  }
-  50% { 
-    color: #0000ff;
-    text-shadow: 0 0 10px #0000ff, 0 0 20px #0000ff;
-    transform: perspective(100px) rotateY(180deg);
-  }
-  75% { 
-    color: #ffff00;
-    text-shadow: 0 0 10px #ffff00, 0 0 20px #ffff00;
-    transform: perspective(100px) rotateY(270deg);
-  }
-  100% { 
-    color: #ff0000;
-    text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
-    transform: perspective(100px) rotateY(360deg);
-  }
+@keyframes blink {
+  0% { color: #ff0000; }
+  50% { color: #ffff00; }
+  100% { color: #ff0000; }
 }
 
 .rainbow-text {
   display: inline-block;
   font-weight: bold;
-  animation: rainbow-3d 4s infinite linear;
-  transform-style: preserve-3d;
+  animation: blink 1s infinite;
 }
 </style>
 # 📝 Publications 
