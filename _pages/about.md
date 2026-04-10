@@ -52,7 +52,7 @@ My research interest includes large language models, information extraction, and
 }
 </style>
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026l</div><img src='images/WWW2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/WWW2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mitigating Cognitive Vulnerabilities in Code Generation via Multi-Agent Adversarial Debate](https://dl.acm.org/doi/10.1145/3774904.3792557)
