@@ -23,6 +23,7 @@ My research interest includes large language models, information extraction, and
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Multimedia (<span class="rainbow-text">CCF-A</span>).
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by ACL 2026 Findings (<span class="rainbow-text">CCF-A</span>).
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by ICME 2026 (<span class="rainbow-text">CCF-B</span>).
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026 (<span class="rainbow-text">CCF-A</span>).
