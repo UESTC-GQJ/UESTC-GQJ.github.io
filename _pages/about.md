@@ -52,6 +52,17 @@ My research interest includes large language models, information extraction, and
 }
 </style>
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026l</div><img src='images/WWW2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mitigating Cognitive Vulnerabilities in Code Generation via Multi-Agent Adversarial Debate](https://dl.acm.org/doi/10.1145/3774904.3792557)
+
+Shuofu Liu, **Quanjiang Guo**✉️, Xiao Liu, Ying Liu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&citation_for_view=Jn7inOcAAAAJ:5nxA0vEk-isC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:5nxA0vEk-isC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/AAAI2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
