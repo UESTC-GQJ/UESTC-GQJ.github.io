@@ -28,7 +28,7 @@ My research interest includes large language models, information extraction, and
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by ICME 2026 (<span class="rainbow-text">CCF-B</span>).
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026 (<span class="rainbow-text">CCF-A</span>).
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026 Oral (<span class="rainbow-text">CCF-A</span>).
-- *2025.10*: &nbsp;🎉🎉 One paper is accepted by BDMA (<span class="rainbow-text">JCR 1区</span>).
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by Big Data Mining and Analytics (<span class="rainbow-text">JCR 1区</span>).
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025 (<span class="rainbow-text">CCF-A</span>). 
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025 (<span class="rainbow-text">CCF-A</span>).
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by ICIC 2025 (CCF-C).
