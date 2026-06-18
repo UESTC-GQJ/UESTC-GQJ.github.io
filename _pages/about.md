@@ -53,6 +53,17 @@ My research interest includes large language models, information extraction, and
 }
 </style>
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Multimedia</div><img src='images/TMM2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAMA: Semantic Anchor-aligned Augmentation for Unified Low-Resource Multimodal Information Extraction](https://arxiv.org/pdf/2606.18780)
+
+**Quanjiang Guo**, Chong Mu, Jiazhou Pan, Ming Jia, Ling Tian, Hui Gao, Zhao Kang✉️
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Jn7inOcAAAAJ&citation_for_view=Jn7inOcAAAAJ:5nxA0vEk-isC) <strong><span class='show_paper_citations' data='Jn7inOcAAAAJ:5nxA0vEk-isC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/WWW2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
