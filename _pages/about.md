@@ -19,7 +19,7 @@ redirect_from:
 
 I received a Bachelor's degree in Computer Science and Technology from the School of Computer Science, Beijing University of Technology (BJUT), in 2020. Currently, I am a third-year PhD student in Computer Science and Technology at the School of Computer Science, University of Electronic Science and Technology of China (UESTC), advised by [Zhao Kang](https://scholar.google.com/citations?user=T_yCaN4AAAAJ&hl=zh-CN).
 
-My research interest includes large language models, information extraction, and natural language processing. I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?hl=zh-CN&user=Jn7inOcAAAAJ'>google scholar citations <strong><span id='total_cit'>40</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=zh-CN&user=Jn7inOcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes large language models, information extraction, and natural language processing. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?hl=zh-CN&user=Jn7inOcAAAAJ'>google scholar citations <strong><span id='total_cit'>40</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=zh-CN&user=Jn7inOcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -148,7 +148,7 @@ Shuofu Liu, **Quanjiang Guo**✉️, Xiao Liu, Ying Liu
 
 # 💬 Academic Services
 - *Conference Reviewer*, ACL, EMNLP, ACM MM, ICME, ACM MM Asia, IJCNN. 
-- *Journal Reviewer*, TASLP.
+- *Journal Reviewer*, ACM Transactions on Software Engineering and Methodology, IEEE Transactions on Audio, Speech and Language Processing, Neurocomputing.
 
 # 💻 Internships
 - *2019.06 - 2019.07*, Institute of Remote Sensing and Digital Earth，Chinese Academy of Sciences, Beijing, China.
