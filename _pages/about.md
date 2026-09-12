@@ -147,7 +147,7 @@ Shuofu Liu, **Quanjiang Guo**✉️, Xiao Liu, Ying Liu
 - *2016.09 - 2020.06*, Beijing University of Technology (BJUT), computer science and technology. 
 
 # 💬 Academic Services
-- *Conference Reviewer*, ACL, EMNLP, ACM MM, ICME, ACM MM Asia, IJCNN. 
+- *Conference Reviewer*, ACL, AAAI, EMNLP, ACM MM, ICME, ACM MM Asia, IJCNN. 
 - *Journal Reviewer*, ACM Transactions on Software Engineering and Methodology, IEEE Transactions on Audio, Speech and Language Processing, Neurocomputing.
 
 # 💻 Internships
